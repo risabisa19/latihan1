@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="itf-8"/>
+        <title>Riwayat Hidup</title>
+    </head>
+    <body>
+        <a href="Latihan 1 risa.html"></a>
+        <a href="beranda.html">Beranda</a>
+        <a href="riwayat hidup.html">Riwayat Hidup</a>
+        <a href="cita cita.html">Cita Cita</a>
+        <p>
+            <h1>Riwayat Hidup dan pendidikan</h1>
+            <h4>Saya lahir di Banyuwangi tangga 19 Mei 2002.
+                Saya anak Terakhir dari 3 Bersaudara.</h4>
+            
+            <h3>Riwayat Pendidikan</h3>
+        </p>
+        <p>
+            berikut adalah riwayat pendidikanyang pernah di jalani:
+            <li> <a href="Tk pertiwi.html">Tk Pertiwi,Rogojampi</a><em>(2006-2008)</em></li>
+            <li><a href="Sd 3.html">Sdn 3 Rogojampi</a> <em>(2008-2014)</em></li>
+            <li><a href="smp1.html">SMP 1 ROGOJAMPI</a> <em>(2014-2017)</em></li>
+            <li><a href="smk1.html">SMKN 1 BANYUWANGI</a><em>(2017-2020)</em></li>
+            <li><a href="stikom1.html">STIKOM PGRI BANYUWANGI</a><em>(2020-Sekarang)</em></li>
+        </p>
+        <a href="Latihan 1 risa.html">Kembali disini</a>
+    </body>
+</html>
